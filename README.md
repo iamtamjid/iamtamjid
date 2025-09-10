@@ -1,6 +1,10 @@
-# Hello 👋 I am Tamjid Fayad
+<div align="center">
 
-## A young researcher and Developer in Computer Science
+# Hi, I am Tamjid Fayad  
+## A young researcher and Developer in Computer Science  
+
+</div>
+
 
 Currently in my last semester of **North South University (NSU)** and working as a **Teaching Assistant**  
 
