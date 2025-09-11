@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=header&text=Hi,%20I'm%20Tamjid%20Fayad%20&fontColor=E0E0E0&fontSize=36&fontAlignY=40" alt="Hi, I'm Tamjid 👋"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:000000,50:222222,100:555555&text=Hi,%20I'm%20Tamjid"/>
 </p>
+
 
 <div align="center">
 
