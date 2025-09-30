@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="left">CSE undergrad @ NSU | Young researcher & developer | Passionate about AI/ML/DL & Full-Stack Web</h4>
+<h4 align="left">CSE undergrad @ NSU | Young researcher & developer | Passionate about AI/ML/DL & Full-Stack Web | Web Developer | AI Enthusiast | Designer</h4>
 
 ###
 
