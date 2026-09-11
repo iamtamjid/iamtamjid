@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🌍 I'm from Dhaka, Bangladesh<br>📫 Reach me at tamjid.edu@gmail.com<br>👨‍💻 Check out my portfolio at MyPortfolio<br>📄 Check out my resume at MyResume<br>🔭 I'm currently working on Machine Learning and Deep Learning<br>🌱 I'm currently learning Next.js & React Native, MERN Stack<br>💬 Ask me about ML & DL<br>🎲 Fun fact: Coffee ☕ is my unofficial programming language 🙂 (it compiles my bugs faster than GCC)<br><br>.</p>
+<p align="left">🌍 I'm from Dhaka, Bangladesh<br>📫 Reach me at tamjid.acad@gmail.com<br>👨‍💻 Check out my portfolio at MyPortfolio<br>📄 Check out my resume at MyResume<br>🔭 I'm currently working on Machine Learning and Deep Learning<br>🌱 I'm currently learning Next.js & React Native, MERN Stack<br>💬 Ask me about ML & DL<br>🎲 Fun fact: Coffee ☕ is my unofficial programming language 🙂 (it compiles my bugs faster than GCC)<br><br>.</p>
 
 ###
 
