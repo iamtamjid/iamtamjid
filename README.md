@@ -4,7 +4,8 @@
 
 <br clear="both">
 
-<h4 align="left">CSE undergrad | Young researcher & developer | Passionate about AI/ML/DL & Full-Stack Web | Web Developer | AI Enthusiast | Designer</h4>
+<h4 align="left">Young Researcher | AI/ML Engineer & Web Developer | UI/UX & Product Designer | Building Intelligent Systems & Innovative Web Solutions
+</h4>
 
 ###
 
