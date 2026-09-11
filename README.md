@@ -2,7 +2,7 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <h4 align="center">Young Researcher | AI/ML Engineer & Web Developer | UI/UX & Product Designer</h4>
 
