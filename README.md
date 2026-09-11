@@ -4,8 +4,7 @@
 
 <br clear="both">
 
-<h4 align="left">Young Researcher | AI/ML Engineer & Web Developer | UI/UX & Product Designer | Building Intelligent Systems & Innovative Web Solutions
-</h4>
+<h4 align="center">Young Researcher | AI/ML Engineer & Web Developer | UI/UX & Product Designer</h4>
 
 ###
 
