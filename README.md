@@ -13,18 +13,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=Tamjid&fontSize=56&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Associate%20Full-Stack%20Software%20Engineer&descSize=20&descAlign=50&descAlignY=68" alt="Tamjid - Associate Full-Stack Software Engineer" width="100%" />
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Crafting+Innovative+Web+Solutions;Turning+Ideas+into+Scalable+Software;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=bb9af7&labelColor=1a1b27" alt="GitHub followers" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=140&section=header&text=Hi%2C%20I%27m%20Tamjid%21&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Hi, I'm Tamjid!" width="100%" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=Gradient&section=header&reversal=true&text=Hi%2C+I%27m+Tamjid%21&textBg=false&fontSize=60&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=82 />
+
+
+
+<a href="https://hits.sh/github.com/YOUR_USERNAME/">
+  <img src="https://hits.sh/github.com/YOUR_USERNAME.svg?style=flat-square&label=Profile%20Views&color=7aa2f7&labelColor=1a1b27" alt="Profile views" />
+</a>
+<a href="https://github.com/YOUR_USERNAME?tab=followers">
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=bb9af7&labelColor=1a1b27" alt="GitHub followers" />
+</a>
+
+
+<!-- <br clear="both"> -->
+
+<h4 align="center">Young Researcher | AI/ML Engineer & Web Developer | UI/UX & Product Designer</h4>
 
 <br/>
 
