@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=220&section=header&text=Hi%2C%20I%27m%20Tamjid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Full-Stack%20Software%20Engineer&descSize=20&descAlignY=58" alt="Header banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=Tamjid&fontSize=56&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Associate%20Full-Stack%20Software%20Engineer&descSize=20&descAlign=50&descAlignY=68" alt="Tamjid - Associate Full-Stack Software Engineer" width="100%" />
 
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Crafting+Innovative+Web+Solutions;Turning+Ideas+into+Scalable+Software;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
@@ -180,6 +180,6 @@ I'm **Tamjid**, an **Associate Full-Stack Software Engineer** who loves turning 
 
 <img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by-%F0%9F%92%99-7AA2F7?style=flat-square&labelColor=1a1b27" alt="Thanks for visiting" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=120&section=footer" alt="Footer banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer" alt="Footer banner" width="100%" />
 
 </div>
