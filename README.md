@@ -37,12 +37,16 @@
 
 ## 👨‍💻 About Me
 
-I'm **Tamjid**, an **Associate Software Engineer** who loves turning complex problems into clean, reliable, and scalable software. I work across the whole stack, from low-level systems in **Python/C/C++/C#** to modern web apps with **ASP.NET,  ASP.NET Core, Django, Flask, React, and TypeScript**, and I enjoy every layer in between.
+I'm **Tamjid**, an **Associate Software Engineer** and **Young Researcher** who loves turning complex problems into clean, reliable, and scalable software. I work across the whole stack, from low-level systems in **Python/C/C++/C#** to modern web apps with **ASP.NET,  ASP.NET Core, Django, Flask, React, and TypeScript**, and I enjoy every layer in between.
 
-- 🔭 **Currently focused on:** Building intelligent systems and innovative web solutions
+- 🌍 I'm from Dhaka, Bangladesh
+- 📫 Reach me at tamjid.acad@gmail.com
+- 👨‍💻 Check out my portfolio at MyPortfolio
+- 🔭 **Currently focused on:** Machine Learning and Deep Learning
 - 🌱 **Always learning:** Cloud architecture, containerization, and system design
 - ⚡ **What drives me:** Writing maintainable code that solves real problems and makes people's lives easier
 - 🤝 **Open to:** Collaborations, open-source contributions, and interesting engineering conversations
+- 🎲 Fun fact: Coffee ☕ is my unofficial programming language 🙂 (it compiles my bugs faster than GCC)
 
 <br/>
 
