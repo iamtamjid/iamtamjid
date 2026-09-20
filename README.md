@@ -19,6 +19,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Associate+Full-Stack+Software+Engineer;Building+Intelligent+Systems;Crafting+Innovative+Web+Solutions;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
+<h4 align="center">Young Researcher | AI/ML Engineer & Web Developer | UI/UX & Product Designer</h4>
+
 <br/>
 
 <a href="https://hits.sh/github.com/YOUR_USERNAME/">
@@ -30,13 +32,12 @@
 
 </div>
 
-<br/>
 
 <!-- ============================ ABOUT ME ============================ -->
 
 ## 👨‍💻 About Me
 
-I'm **Tamjid**, an **Associate Full-Stack Software Engineer** who loves turning complex problems into clean, reliable, and scalable software. I work across the whole stack, from low-level systems in **C/C++** to modern web apps with **React, TypeScript, Django, and ASP.NET Core**, and I enjoy every layer in between.
+I'm **Tamjid**, an **Associate Software Engineer** who loves turning complex problems into clean, reliable, and scalable software. I work across the whole stack, from low-level systems in **Python/C/C++/C#** to modern web apps with **ASP.NET,  ASP.NET Core, Django, Flask, React, and TypeScript**, and I enjoy every layer in between.
 
 - 🔭 **Currently focused on:** Building intelligent systems and innovative web solutions
 - 🌱 **Always learning:** Cloud architecture, containerization, and system design
