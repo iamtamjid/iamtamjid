@@ -42,7 +42,7 @@ I'm **Tamjid**, an **Associate Software Engineer** and **Young Researcher** who 
 - 🌍 I'm from Dhaka, Bangladesh
 - 📫 Reach me at tamjid.acad@gmail.com
 - 👨‍💻 Check out my portfolio at MyPortfolio
-- 💼 Teaching Assistant | Research Assistant | Software Engineer | AI/ML • Computer Vision • Medical AI
+- 💼 Software Engineer | Research Assistant | Teaching Assistant | AI/ML • Computer Vision • Medical AI
 - 🔭 **Currently focused on:** Machine Learning and Deep Learning
 - 🌱 **Always learning:** Cloud architecture, containerization, and system design
 - ⚡ **What drives me:** Writing maintainable code that solves real problems and makes people's lives easier
