@@ -1,11 +1,11 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║  SETUP: Find & replace these placeholders before committing  ║
-  ║  YOUR_USERNAME  → your GitHub username                       ║
+  ║  YOUR_USERNAME  → your GitHub username (used in many places) ║
   ║  REPO_ONE / REPO_TWO / REPO_THREE → your best repo names     ║
   ║  YOUR_LINKEDIN, YOUR_TWITTER, YOUR_PORTFOLIO_URL,            ║
   ║  YOUR_BLOG_URL, YOUR_EMAIL → your real links                 ║
-  ║  Edit the Achievements and Fun Fact sections to match you    ║
+  ║  Edit the Highlights and Fun Fact sections to match you      ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
@@ -15,11 +15,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=140&section=header&text=Hi%2C%20I%27m%20Tamjid%21&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Hi, I'm Tamjid!" width="100%" />
 
-</div>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Associate+Full-Stack+Software+Engineer;Building+Intelligent+Systems;Crafting+Innovative+Web+Solutions;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=Gradient&section=header&reversal=true&text=Hi%2C+I%27m+Tamjid%21&textBg=false&fontSize=60&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=82 />
-
-
+<br/>
 
 <a href="https://hits.sh/github.com/YOUR_USERNAME/">
   <img src="https://hits.sh/github.com/YOUR_USERNAME.svg?style=flat-square&label=Profile%20Views&color=7aa2f7&labelColor=1a1b27" alt="Profile views" />
@@ -28,10 +28,7 @@
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=bb9af7&labelColor=1a1b27" alt="GitHub followers" />
 </a>
 
-
-<!-- <br clear="both"> -->
-
-<h4 align="center">Young Researcher | AI/ML Engineer & Web Developer | UI/UX & Product Designer</h4>
+</div>
 
 <br/>
 
@@ -62,7 +59,7 @@ I'm **Tamjid**, an **Associate Full-Stack Software Engineer** who loves turning 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
 
@@ -85,7 +82,7 @@ I'm **Tamjid**, an **Associate Full-Stack Software Engineer** who loves turning 
 <div align="left">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -97,7 +94,7 @@ I'm **Tamjid**, an **Associate Full-Stack Software Engineer** who loves turning 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Toad](https://img.shields.io/badge/Toad-1E90FF?style=for-the-badge)
+![Toad](https://img.shields.io/badge/Toad-1E90FF?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -109,12 +106,16 @@ I'm **Tamjid**, an **Associate Full-Stack Software Engineer** who loves turning 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&ring_color=7aa2f7&border_radius=12&include_all_commits=true&count_private=true&custom_title=Tamjid%27s%20GitHub%20Stats" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&border_radius=12&langs_count=8" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&border_radius=12&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakNum=c0caf5&currStreakLabel=7aa2f7&sideNums=c0caf5&sideLabels=7aa2f7&dates=9aa5ce" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=3d59a1&hide_border=true&radius=12" alt="Contribution graph" width="100%" />
 
 </div>
 
@@ -127,14 +128,14 @@ I'm **Tamjid**, an **Associate Full-Stack Software Engineer** who loves turning 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME/REPO_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=tokyonight&hide_border=true&border_radius=12" alt="Featured project one" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&border_radius=12" alt="Featured project one" />
 </a>
 <a href="https://github.com/YOUR_USERNAME/REPO_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=tokyonight&hide_border=true&border_radius=12" alt="Featured project two" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&border_radius=12" alt="Featured project two" />
 </a>
 
 <a href="https://github.com/YOUR_USERNAME/REPO_THREE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=tokyonight&hide_border=true&border_radius=12" alt="Featured project three" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&border_radius=12" alt="Featured project three" />
 </a>
 
 </div>
@@ -187,6 +188,6 @@ I'm **Tamjid**, an **Associate Full-Stack Software Engineer** who loves turning 
 
 <img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by-%F0%9F%92%99-7AA2F7?style=flat-square&labelColor=1a1b27" alt="Thanks for visiting" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer" alt="Footer banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer" alt="Footer" width="100%" />
 
 </div>
