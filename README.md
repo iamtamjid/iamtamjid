@@ -194,6 +194,6 @@ I'm **Tamjid**, an **Associate Software Engineer** and **Young Researcher** who 
 
 <img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by-%F0%9F%92%99-7AA2F7?style=flat-square&labelColor=1a1b27" alt="Thanks for visiting" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3f104f&height=20&section=footer" alt="Footer" width="100%" />
 
 </div>
