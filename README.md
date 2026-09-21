@@ -13,13 +13,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=140&section=header&text=Hi%2C%20I%27m%20Tamjid%21&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Hi, I'm Tamjid!" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3f104f&height=90&section=header&text=Hi%2C%20I%27m%20Tamjid%21&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Hi, I'm Tamjid!" width="100%" />
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Associate+Full-Stack+Software+Engineer;Building+Intelligent+Systems;Crafting+Innovative+Web+Solutions;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Associate+Software+Engineer;Building+Intelligent+Systems;Crafting+Innovative+Web+Solutions;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
-<h4 align="center">Young Researcher | AI/ML Engineer & Web Developer | UI/UX & Product Designer</h4>
+<h3 align="center">Young Researcher | AI/ML Engineer & Web Developer | UI/UX & Product Designer</h3>
 
 <br/>
 
