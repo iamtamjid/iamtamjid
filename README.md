@@ -26,10 +26,12 @@
 <a href="https://hits.sh/github.com/YOUR_USERNAME/">
   <img src="https://hits.sh/github.com/YOUR_USERNAME.svg?style=flat-square&label=Profile%20Views&color=7aa2f7&labelColor=1a1b27" alt="Profile views" />
 </a>
+
+<!--
 <a href="https://github.com/YOUR_USERNAME?tab=followers">
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=bb9af7&labelColor=1a1b27" alt="GitHub followers" />
 </a>
-
+-->
 </div>
 
 
