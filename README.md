@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Associate+Software+Engineer;Building+Intelligent+Systems;Crafting+Innovative+Web+Solutions;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
-<h3 align="center">Young Researcher | AI/ML Engineer & Web Developer | UI/UX & Product Designer</h3>
+<h3 align="center">Young Researcher | AI/ML Engineer & Web Developer | Product Designer</h3>
 
 <br/>
 
